@@ -14,7 +14,7 @@ public class MeditationSpeechletRequestStreamHandler extends SpeechletRequestStr
          */
         supportedApplicationIds = new HashSet<String>();
         
-        //supportedApplicationIds.add("");
+        supportedApplicationIds.add("amzn1.ask.skill.5166af91-2f6a-42b1-964f-0a70085ca217");
     }
 
     public MeditationSpeechletRequestStreamHandler() {
